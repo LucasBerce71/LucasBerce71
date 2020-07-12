@@ -1,16 +1,18 @@
-### Hi there 👋
+# :man_technologist: Lucas Bittencourt
 
-<!--
-**LucasBerce71/LucasBerce71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasBerce71)](https://github.com/LucasBerce71)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bercê-de-jesus-bb228416a/)](https://www.linkedin.com/in/lucas-bercê-de-jesus/)
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511952941306&text=Olá!)](https://api.whatsapp.com/send?phone=5511952941306&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasberce71@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
-Here are some ideas to get you started:
+## Olá! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Lucas Bercê de Jesus, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
+
+- :office_worker: Desenvolvedor na **AP INTERACTIVE**
+- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
+
+> :octocat: [lucasberce.dev](https://aldeiacast.000webhostapp.com/Portif%C3%B3lio%20Lucas%20Berc%C3%AA/Portifolio/Portifolio/index.html)
+
+---
