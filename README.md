@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511952941306&text=Olá!)](https://api.whatsapp.com/send?phone=5511952941306&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasberce71@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
 
-## Olá! 👋
+## Olá Dev tudo bem?! 👋
 
 Meu nome é Lucas Bercê de Jesus, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
