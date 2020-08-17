@@ -16,7 +16,7 @@ que for preciso!!!
 ## Um grande abraço 👋
 
 - :office_worker: Desenvolvedor na **AP INTERACTIVE**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
+- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, Flutter, Dart, entre outras.
 
 > :octocat: [lucasberce.dev](https://aldeiacast.000webhostapp.com/Portif%C3%B3lio%20Lucas%20Berc%C3%AA/Portifolio/Portifolio/index.html)
 
