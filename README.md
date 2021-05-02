@@ -8,7 +8,7 @@
 ## Olá Dev tudo bem? 👋
 
 Meu nome é Lucas Bercê de Jesus, Desenvolvedor de software, é um grande prazer receber você em minha página do github, espero que goste dos repositórios que irá encontrar
-por aqui, pois todos os projetos form desenvolvido com muito carinho e dedicação. Sabemos que estamos passando por um momento muito difícil com toda essa pandemia, porém
+por aqui, pois todos os projetos foram desenvolvido com muito carinho e dedicação. Sabemos que estamos passando por um momento muito difícil com toda essa pandemia, porém
 essa é a hora de todos nós devs se unirmos para ajudarmos um colega de profissão ou até mesmo alguém que esteja iniciando no mundo do desenvolvimento, então sinta-se a 
 vontade para desfrutar e usar qualquer projeto desse meu repositório, e qualquer dúvida ou ajuda que precisar entre em contato comigo que estarei disposto para ajudar no
 que for preciso!!!
