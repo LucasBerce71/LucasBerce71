@@ -1,22 +1,25 @@
-# :man_technologist: Lucas Bercê de Jesus
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasBerce71)](https://github.com/LucasBerce71)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-berc%C3%AA-de-jesus-bb228416a/)](https://www.linkedin.com/in/lucas-berc%C3%AA-de-jesus-bb228416a/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511952941306&text=Olá!)](https://api.whatsapp.com/send?phone=5511952941306&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasberce71@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
-
-## Olá Dev tudo bem? 👋
-
-Meu nome é Lucas Bercê de Jesus, Desenvolvedor de software, é um grande prazer receber você em minha página do github, espero que goste dos repositórios que irá encontrar
-por aqui, pois todos os projetos foram desenvolvido com muito carinho e dedicação. Sinta-se a 
-vontade para desfrutar e usar qualquer projeto desse meu repositório, e qualquer dúvida ou ajuda que precisar entre em contato comigo que estarei disposto para ajudar no
-que for preciso!!!
-
-## Um grande abraço 👋
-
-- :office_worker: Desenvolvedor na **AP INTERACTIVE**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, Flutter, Dart, entre outras.
-
-> :octocat: [lucasberce.dev](https://aldeiacast.000webhostapp.com/Portif%C3%B3lio%20Lucas%20Berc%C3%AA/Portifolio/Portifolio/index.html)
-
----
+## Olá! Seja bem vindo ao meu GITHUB
+ <div>
+  <a href="https://github.com/LucasBerce71">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBerce71&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBerce71&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/lbjbrdev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasberce71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-berc%C3%AA-de-jesus-bb228416a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbpTU4FLeS32k3vt5OfgBAg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/LucasBerce71/LucasBerce71/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
