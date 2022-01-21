@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo ao meu GITHUB
+## Hello welcome!
  <div>
   <a href="https://github.com/LucasBerce71">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBerce71&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
