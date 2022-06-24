@@ -3,7 +3,7 @@
 
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 🔭  I work as a senior frontend engineer
+- 🔭  I work as a sênior frontend engineer
 
 - 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS**
 
