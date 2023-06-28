@@ -9,7 +9,7 @@
 
 - 💬  Ask me about **Windows 🪟 or macOS 🍎**
 
-- 🚀  How to reach me  [lucasbercedejesusportifolio.netlify.app](https://lucasbercedejesusportifolio.netlify.app/)
+- 🚀  How to reach me  [lucasbercedejesus.vercel.app](https://lucasbercedejesus.vercel.app/)
 
 <br>
 
